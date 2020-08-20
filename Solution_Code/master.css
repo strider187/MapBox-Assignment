@@ -1,0 +1,26 @@
+html, body{
+  height: 100%;
+}
+.navbar {
+  width: 4%;
+  height: 100%;
+}
+
+.fa {
+  padding-top: 20px;
+  padding-bottom: 20px
+  vertical-align: top;
+  color: coral;
+}
+
+.active {
+  background-color: white;
+  display: inline-block;
+  border-radius: 40px;
+  padding: 0.5em, 0.6em;
+  text-align: center;
+}
+
+.fa:hover{
+  color: white;
+}
